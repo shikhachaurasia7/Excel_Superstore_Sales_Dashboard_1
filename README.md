@@ -1,1 +1,2 @@
-# Excel_Superstore_Sales_Dashboard_1
+# Superstore_Data_Analysis(Interactive Sales Dashboard creation using MS Excel)
+## Project Objective
