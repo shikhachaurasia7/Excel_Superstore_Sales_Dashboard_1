@@ -5,5 +5,6 @@
 • Created pivot tables.
 • Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 ## Dashboard
-![Screenshot Sales Dashboard](https://github.com/user-attachments/assets/fafa1fda-7fbf-440a-b32f-03a9524f365d)
+![Screenshot  Superstore Sales Dashboard](https://github.com/user-attachments/assets/01d2b532-029c-4d12-85bc-798896e75cd9)
+
 
